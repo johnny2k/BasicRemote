@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Basic Remote</string>
+  <string name="unkown_tgt_name">Unknown</string>
+  <string name="unkown_tgt_addr">unknown address</string>
+  <string name="ok_text">OK</string>
+
+  <!-- Manifest labels -->
+  <string name="core_service_label">Basic Remote Control Service</string>
+  <string name="finder_label">Connect to Google TV</string>
+
+  <!--  Main menu -->
+  <string name="menu_switch">Switch box</string>
+  <string name="menu_manual">Enter manual IP</string>
+
+  <!-- Settings -->
+  <string name="unknown_build">Unknown</string>
+
+  <!--  Device Finder - more devices -->
+  <string name="finder_searching">Searching for Google TV devices on your network.</string>
+  <string name="finder_searching_with_ssid">Searching for Google TV devices on \"%s\" network.</string>
+  <string name="finder_wifi_waiting">Waiting for WiFi network.</string>
+  <string name="finder_add_other">Add other device</string>
+  <string name="finder_connect">Connect</string>
+  <string name="finder_cancel">Cancel</string>
+  <string name="finder_manual">Add Google TV manually</string>
+  <string name="finder_enable">Enable</string>
+  <string name="finder_configure">Configure</string>
+  <string name="finder_wait">Wait</string>
+  <string name="finder_no_devices">No Google TV devices found</string>
+  <string name="finder_no_devices_with_ssid">No Google TV devices found on \"%s\"</string>
+  <string name="finder_wifi_not_available">WiFi network not available</string>
+  <string name="finder_recently_connected">Recently connected devices</string>
+
+  <!-- Manual IP dialog strings -->
+  <string name="manual_ip_label">Add Google TV</string>
+  <string name="manual_ip_entry_label">IP Address</string>
+  <string name="manual_ip_hint">xxx.xxx.xxx.xxx</string>
+  <string name="manual_ip_message">You can find IP address of your Google TV device by going to:\nSettings &gt; Network &gt; Network Information</string>
+  <string name="manual_ip_error_address">Invalid address.</string>
+  <string name="manual_ip_default_box_name">Unknown box</string>
+  <string name="manual_ip_connect">Connect</string>
+  <string name="manual_ip_cancel">Cancel</string>
+
+  <!-- Pairing -->
+  <string name="pairing_activity_label">Pairing with Google TV</string>
+  <string name="pairing_label">Enter PIN code</string>
+  <string name="pairing_hint">Enter PIN code</string>
+  <string name="pairing_ok">Pair</string>
+  <string name="pairing_request_code">Request code</string>
+  <string name="pairing_cancel">Cancel</string>
+  <string name="pairing_failed_toast">Pairing failed</string>
+  <string name="pairing_succeeded_toast">Pairing succeeded</string>
+  <string name="pairing_waiting">Waiting for pairing code</string>
+  <string name="connect_gtv">Connect to Google TV</string>
+
+  <!-- Buttons -->
+  <string name ="button_1">Button 1</string>
+  <string name ="button_2">Button 2</string>
+  <string name ="button_3">Button 3</string>
+  <string name="sender_missing">Connecting</string>
+  
+  
+</resources>
